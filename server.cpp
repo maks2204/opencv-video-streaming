@@ -1,9 +1,3 @@
-/**
- * OpenCV video streaming over TCP/IP
- * Server: Captures video from a webcam and send it to a client
- * by Isaac Maia
- */
-
 #include "opencv2/opencv.hpp"
 #include <iostream>
 #include <sys/socket.h> 
